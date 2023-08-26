@@ -1,0 +1,16 @@
+@List of commands
+git init
+git clone url
+git status
+git add filename
+git commit -m "fisrtcommit"
+git push 
+git remore add branch-name url
+git remote -v
+git log
+git -b branch test1
+git checkoute test1
+git merge  reach2
+git pull
+git fetch
+
